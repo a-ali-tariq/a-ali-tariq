@@ -1,8 +1,8 @@
 ## Hi there 👋, Welcome!
 
-Hello! 👋 My name is **Ameer Ali Tariq**. I’m a **Full Stack Web Developer** and **Cloud & AI enthusiast** from Pakistan.
+Hello! 👋 My name is **Amir Ali Tariq**. I’m a **Full Stack Web Developer** and **Cloud & AI enthusiast** from Pakistan.
 
-I love building scalable web applications and exploring cutting-edge technologies in the **MERN stack** and **cloud platforms like GCP**. I’m also learning about AI integrations and investing strategies.
+I love building scalable web applications and exploring cutting-edge technologies in the **MERN stack** and **cloud platforms like GCP,AWS**. I’m also learning about AI integrations and investing strategies.
 
 ### Skills
 
