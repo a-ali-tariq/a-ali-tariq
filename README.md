@@ -36,5 +36,4 @@ I love building scalable web applications and exploring cutting-edge technologie
 
 * Email: `amiralitariq@gmail.com`
 * LinkedIn: [linkedin.com/in/amiralitariq](https://linkedin.com/in/amiralitariq)
-* GitHub: [github.com/a-ali-tariq](https://github.com/a-ali-tariq)
 
