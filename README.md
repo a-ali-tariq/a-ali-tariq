@@ -22,9 +22,11 @@ I love building scalable web applications and exploring cutting-edge technologie
 
 ### Certifications
 
-* ![GCP](https://img.shields.io/badge/GCP-ACE-F4B400?style=for-the-badge&logo=googlecloud&logoColor=white) **Google Cloud Certified: Associate Cloud Engineer**
-* ![Python](https://img.shields.io/badge/Python-CAP-306998?style=for-the-badge&logo=python&logoColor=white) **Certified Associate Python Programmer (PCAP)**
-* ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) **Microsoft Certified: Azure Fundamentals**
+![GCP](https://img.shields.io/badge/GCP-ACE-F4B400?style=for-the-badge&logo=googlecloud&logoColor=white) **Google Cloud Certified: Associate Cloud Engineer**
+
+![Python](https://img.shields.io/badge/Python-CAP-306998?style=for-the-badge&logo=python&logoColor=white) **Certified Associate Python Programmer (PCAP)**
+
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) **Microsoft Certified: Azure Fundamentals**
 
 ### Currently
 
